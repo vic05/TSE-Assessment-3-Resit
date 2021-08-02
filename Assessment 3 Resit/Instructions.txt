@@ -1,0 +1,10 @@
+The aim of the game is to try to reach the furthest 
+distance possible while trying to dodge other cars 
+on the three-lane motorway. Think smart and anticipate 
+what lane to switch to next because if you collide 
+with another vehicle the game ends.
+
+Use the right mouse button to click buttons, such as, 
+‘Start the Game’. Use the arrow keys, which are located 
+on the right hand side of the keyboard, to switch lanes 
+when the game has started.
